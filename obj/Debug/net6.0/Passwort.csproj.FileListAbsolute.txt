@@ -1,0 +1,15 @@
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.csproj.AssemblyReference.cache
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.GeneratedMSBuildEditorConfig.editorconfig
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.AssemblyInfoInputs.cache
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.AssemblyInfo.cs
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.csproj.CoreCompileInputs.cache
+/home/philipp/Dokumente/Programmieren/C#/Passwort/bin/Debug/net6.0/Passwort
+/home/philipp/Dokumente/Programmieren/C#/Passwort/bin/Debug/net6.0/Passwort.deps.json
+/home/philipp/Dokumente/Programmieren/C#/Passwort/bin/Debug/net6.0/Passwort.runtimeconfig.json
+/home/philipp/Dokumente/Programmieren/C#/Passwort/bin/Debug/net6.0/Passwort.dll
+/home/philipp/Dokumente/Programmieren/C#/Passwort/bin/Debug/net6.0/Passwort.pdb
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.dll
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/refint/Passwort.dll
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.pdb
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/Passwort.genruntimeconfig.cache
+/home/philipp/Dokumente/Programmieren/C#/Passwort/obj/Debug/net6.0/ref/Passwort.dll
